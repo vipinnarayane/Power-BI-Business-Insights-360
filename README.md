@@ -1,7 +1,4 @@
-# Business Insights 360
-AtliQ Hardware: Power BI Data Analytics Project
-
-# AtliQ Hardware: Power BI Data Analytics Project
+# Business Insights 360 :AtliQ Hardware: Power BI Data Analytics Project
 
 ## Project Overview
 
