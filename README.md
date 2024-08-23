@@ -98,6 +98,9 @@ During the course of this project, I gained expertise in the following Power BI 
 - **Complex Calculations:** Some financial metrics required complex calculations. Used advanced DAX functions and DAX Studio to implement these accurately and efficiently.
 - **User Adoption:** Ensured that the dashboards were intuitive and provided training sessions to stakeholders, increasing adoption and effective use of the new system.
 
+## Dashboard Design
+-Following discussions and feedback, I have initiated the design of the visuals and developed various dashboards to meet the project requirements. Measures have been created as needed to align with the project's objectives. The complete dashboard is available here: [Report](https://app.powerbi.com/view?r=eyJrIjoiNjcwYzRmNGItYTc4NS00ODlkLWIwOTAtYjUyNDk2MWNmODdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection88031153a90561607e2d).
+
 ## Course Reference
 
 This project was developed as part of the [Codebasics Data Analytics Bootcamp 3.0 Course](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance), which provided a solid foundation in Power BI and advanced data analytics techniques. The course covered essential skills such as data transformation, DAX, and dashboard design, which were directly applied to this project.
