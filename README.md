@@ -71,6 +71,27 @@ I played a central role in the execution of this project, focusing on the follow
 - **Performance Optimization:** Leveraged DAX Studio to optimize DAX calculations, improve report performance, reduce load times, and better user experience.
 - **Stakeholder Collaboration:** Worked closely with key stakeholders to understand their requirements and ensure the dashboards met their needs.
 
+## Power BI Techniques Learned
+
+During the course of this project, I gained expertise in the following Power BI techniques:
+
+- **Project Scoping:** Identified and asked essential questions before starting the project to ensure alignment with stakeholder expectations.
+- **Creating Calculated Columns:** Developed calculated columns to add new data fields and enhance the data model.
+- **DAX Measures:** Created complex measures using the DAX language to perform advanced calculations and derive insights.
+- **Data Modeling:** Built robust data models to establish relationships between tables and ensure data integrity.
+- **Bookmarks:** Used bookmarks to switch between visuals, creating a more interactive user experience.
+- **Page Navigation:** Implemented buttons for seamless page navigation within the report, enhancing user interactivity.
+- **Divide Function:** Used the divide function to prevent division by zero errors, ensuring accurate calculations.
+- **Date Table Creation:** Created a custom date table using M language to support time-based calculations.
+- **Dynamic Titles:** Created dynamic titles that change based on the applied filters, providing context-specific insights.
+- **KPI Indicators:** Used KPI indicators to visualize performance against key metrics, allowing for quick assessments of success.
+- **Conditional Formatting:** Applied conditional formatting to values in visuals using icons or background color, improving data visualization.
+- **Data Validation:** Implemented data validation techniques to ensure the accuracy and consistency of the data.
+- **Power BI Services:** Explored Power BI Services for sharing reports and dashboards, including publishing reports to the cloud.
+- **Auto-Refresh Setup:** Set up a personal gateway to enable auto-refresh of data, ensuring that reports are always up-to-date.
+- **Power BI App Creation:** Developed Power BI apps for distributing reports to users in an organized manner.
+- **Collaboration & Permissions:** Managed collaboration within workspaces, including setting access permissions and sharing reports securely within Power BI Services.
+
 ## Challenges & Solutions
 
 - **Data Integration:** Faced challenges in integrating data from disparate sources. Solved this by standardizing data formats and using SQL Server for efficient data management.
