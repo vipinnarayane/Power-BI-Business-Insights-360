@@ -74,5 +74,5 @@ I played a central role in the execution of this project, focusing on the follow
 
 ## Course Reference
 
-This project was developed as part of the [Codebasics Power BI Course]([#](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)), which provided a solid foundation in Power BI and advanced data analytics techniques. The course covered essential skills such as data transformation, DAX, and dashboard design, which were directly applied to this project.
+This project was developed as part of the [Codebasics Power BI Course](#https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance), which provided a solid foundation in Power BI and advanced data analytics techniques. The course covered essential skills such as data transformation, DAX, and dashboard design, which were directly applied to this project.
 
