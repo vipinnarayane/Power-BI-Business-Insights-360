@@ -64,6 +64,7 @@ The project covered the following key areas:
 I played a central role in the execution of this project, focusing on the following areas:
 
 - **Data Acquisition:** Gathered data from various sources.
+- **Data Integration:** Integrated data from MySQL and Excel into Power BI.
 - **Data Transformation:** Used Power Query to clean and transform raw data, ensuring accuracy and consistency.
 - **Data Modeling:** Created relationships between datasets and developed a robust data model to support the analytical requirements.
 - **DAX Implementation:** Utilized Data Analysis Expressions (DAX) to create calculated columns, measures, and custom metrics to derive deeper insights.
@@ -94,7 +95,6 @@ During the course of this project, I gained expertise in the following Power BI 
 
 ## Challenges & Solutions
 
-- **Data Integration:** Faced challenges in integrating data from disparate sources. Solved this by standardizing data formats and using SQL Server for efficient data management.
 - **Complex Calculations:** Some financial metrics required complex calculations. Used advanced DAX functions and DAX Studio to implement these accurately and efficiently.
 - **User Adoption:** Ensured that the dashboards were intuitive and provided training sessions to stakeholders, increasing adoption and effective use of the new system.
 
