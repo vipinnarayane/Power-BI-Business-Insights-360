@@ -50,29 +50,28 @@ The project covered the following key areas:
 
 - **Power BI:** For comprehensive data modeling, visualization, and interactive report creation.
 - **Excel:** Utilized for initial data cleaning, transformation, and preliminary analysis.
-- **SQL Server:** Employed to manage and query large datasets, ensuring efficient data retrieval for reporting.
+- **MySQL:** Employed to manage and query large datasets, ensuring efficient data retrieval for reporting.
+- **DAX Studio:** Used for optimizing the report, enhancing the performance of DAX calculations, and ensuring efficient data processing.
 
 ## My Role & Contributions
 
 I played a central role in the execution of this project, focusing on the following areas:
 
-- **Data Acquisition:** Gathered data from various sources, including ERP systems, CRM tools, and third-party databases.
+- **Data Acquisition:** Gathered data from various sources.
 - **Data Transformation:** Used Power Query to clean and transform raw data, ensuring accuracy and consistency.
 - **Data Modeling:** Created relationships between datasets and developed a robust data model to support the analytical requirements.
 - **DAX Implementation:** Utilized Data Analysis Expressions (DAX) to create calculated columns, measures, and custom metrics to derive deeper insights.
 - **Dashboard Design:** Designed and developed user-friendly, visually appealing dashboards tailored to the specific needs of finance, sales, marketing, supply chain, executive management, and product performance.
-- **Performance Optimization:** Optimized data models and reports for faster loading times and better user experience.
+- **Performance Optimization:** Leveraged DAX Studio to optimize DAX calculations, improve report performance, reduce load times, and better user experience.
 - **Stakeholder Collaboration:** Worked closely with key stakeholders to understand their requirements and ensure the dashboards met their needs.
 
 ## Challenges & Solutions
 
 - **Data Integration:** Faced challenges in integrating data from disparate sources. Solved this by standardizing data formats and using SQL Server for efficient data management.
-- **Complex Calculations:** Some financial metrics required complex calculations. Used advanced DAX functions to implement these accurately.
+- **Complex Calculations:** Some financial metrics required complex calculations. Used advanced DAX functions and DAX Studio to implement these accurately and efficiently.
 - **User Adoption:** Ensured that the dashboards were intuitive and provided training sessions to stakeholders, increasing adoption and effective use of the new system.
-				
-																																																																									
 
 ## Course Reference
 
-This project was developed as part of the [Codebasics Power BI Course](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance), which provided a solid foundation in Power BI and advanced data analytics techniques. The course covered essential skills such as data transformation, DAX, and dashboard design, which were directly applied to this project.
+This project was developed as part of the [Codebasics Data Analytics Bootcamp 3.0 Course](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance), which provided a solid foundation in Power BI and advanced data analytics techniques. The course covered essential skills such as data transformation, DAX, and dashboard design, which were directly applied to this project.
 
