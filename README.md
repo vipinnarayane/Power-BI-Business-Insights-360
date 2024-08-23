@@ -15,25 +15,31 @@ AtliQ Hardware, a rapidly growing company, recognized the need to leverage data 
 
 The project covered the following key areas:
 
-### 1. **Finance Dashboard**
-   - **Revenue Analysis:** Visualized revenue streams across different product lines and regions.
-   - **Expense Tracking:** Monitored operational and capital expenses.
-   - **Profitability Metrics:** Calculated gross and net profit margins, providing insights into financial performance.
+### 1. **Finance View**
+   - **P&L Analysis:** Provided a detailed Profit and Loss statement, giving insights into the company's financial health.
+   - **Net Sales Performance:** Tracked net sales performance over time, allowing for trend analysis and forecasting.
+   - **Top/Bottom Customers:** Highlighted the top and bottom customers by net sales, offering insights into customer profitability.
+   - **Top/Bottom Products:** Identified the top and bottom products by net sales, aiding in strategic product management decisions.
 
-### 2. **Sales Dashboard**
-   - **Sales Trends:** Analyzed historical sales data to identify growth patterns and seasonal trends.
-   - **Customer Segmentation:** Grouped customers by demographics, purchase behavior, and profitability.
-   - **Sales Performance:** Measured sales team performance using key performance indicators (KPIs) like conversion rates and deal closure times.
+### 2. **Sales View**
+   - **Product Performance:** Analyzed the performance of various products, providing a clear view of bestsellers and underperformers.
+   - **Customer Performance:** Evaluated customer performance metrics, including purchase frequency and average order value.
+   - **Sales & Invoice Tracking:** Monitored sales and invoicing trends, ensuring that revenue generation is on track.
+   - **COGS & GM Analysis:** Provided insights into the Cost of Goods Sold (COGS) and Gross Margin (GM), helping to understand profitability at different levels.
 
-### 3. **Marketing Dashboard**
-   - **Campaign Performance:** Evaluated the effectiveness of marketing campaigns by tracking metrics like conversion rates, click-through rates, and ROI.
-   - **Customer Acquisition Cost (CAC):** Analyzed the cost-effectiveness of customer acquisition strategies.
-   - **Market Segmentation:** Provided insights into market segments that are most responsive to different marketing strategies.
-
-### 4. **Supply Chain Dashboard**
-   - **Inventory Management:** Tracked inventory levels to minimize stockouts and reduce holding costs.
-   - **Vendor Performance:** Assessed vendor reliability based on delivery times, order accuracy, and cost efficiency.
-   - **Logistics Optimization:** Monitored supply chain logistics to identify areas for cost savings and process improvement.
+### 3. **Market View**
+   - **Product Performance:** Assessed how products perform across different regions and markets.
+   - **Market Segmentation::** Provided insights into market segments that are most responsive to different marketing strategies. Analyzed performance by region, market, and customer, allowing for targeted marketing    
+       strategies.
+   - **COGS, Expense & Profit:** Tracked the Cost of Goods Sold, overall expenses, and profitability to gauge financial efficiency.
+   - **Performance Matrix:** Visualized the relationship between Net Profit % and Net Sales $, offering a quick overview of performance across various segments.
+- **Customer Acquisition Cost (CAC):** Analyzed the cost-effectiveness of customer acquisition strategies.
+ 
+### 4. **Supply Chain View**
+   - **Key Metrics by Customer:** Provided key supply chain metrics, focusing on customer-specific performance.
+   - **Forecast Accuracy:** Measured forecast accuracy, including Net Error, Absolute Error, and trends over time, to improve supply chain planning.
+   - **Accuracy/Error Trends:** Monitored the trends in forecast accuracy and errors, enabling continuous improvement in forecasting processes.
+   - **Key Metrics by Products:** Highlighted key supply chain metrics for products, such as inventory levels, lead times, and fulfillment rates.
 
 ### 5. **Executive Dashboard**
    - **Top-Level Insights by Subzone:** Provided a high-level overview of key metrics broken down by geographic subzones.
