@@ -66,7 +66,7 @@ I played a central role in the execution of this project, focusing on the follow
 - **Data Acquisition:** Gathered data from various sources.
 - **Data Integration:** Integrated data from MySQL and Excel into Power BI.
 - **Data Transformation:** Used Power Query to clean and transform raw data, ensuring accuracy and consistency.
-- **Data Modeling:** Created relationships between datasets and developed a robust data model to support the analytical requirements.
+- **Data Modeling:** Data Modeling: Data modeling is a critical component that underpins the entire report, as all visuals are based on the structure and relationships within the model. Inadequate data modeling can severely affect the report’s performance, making it imperative to follow best practices to ensure both efficiency and accuracy. In this project, we adopted the Snowflake data modeling approach, establishing strong relationships between datasets and developing a robust data model to meet the analytical needs. For more information on best practices, please refer to this [blog](https://addendanalytics.com/blog/data-modelling-best-practices).
 - **DAX Implementation:** Utilized Data Analysis Expressions (DAX) to create calculated columns, measures, and custom metrics to derive deeper insights.
 - **Dashboard Design:** Designed and developed user-friendly, visually appealing dashboards tailored to the specific needs of finance, sales, marketing, supply chain, executive management, and product performance.
 - **Performance Optimization:** Leveraged DAX Studio to optimize DAX calculations, improve report performance, reduce load times, and better user experience.
