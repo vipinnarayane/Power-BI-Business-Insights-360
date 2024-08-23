@@ -100,7 +100,7 @@ During the course of this project, I gained expertise in the following Power BI 
 - **User Adoption:** Ensured that the dashboards were intuitive and provided training sessions to stakeholders, increasing adoption and effective use of the new system.
 
 ## Dashboard Design
--Following discussions and feedback, I have initiated the design of the visuals and developed various dashboards to meet the project requirements. Measures have been created as needed to align with the project's objectives. The complete dashboard is available here: [Report](https://app.powerbi.com/view?r=eyJrIjoiNjcwYzRmNGItYTc4NS00ODlkLWIwOTAtYjUyNDk2MWNmODdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection88031153a90561607e2d).
+Following discussions and feedback, I have initiated the design of the visuals and developed various dashboards to meet the project requirements. Measures have been created as needed to align with the project's objectives. The complete dashboard is available here: [Report](https://app.powerbi.com/view?r=eyJrIjoiNjcwYzRmNGItYTc4NS00ODlkLWIwOTAtYjUyNDk2MWNmODdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection88031153a90561607e2d).
 
 ## Course Reference
 
