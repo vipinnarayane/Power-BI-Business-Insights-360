@@ -21,12 +21,16 @@ The project covered the following key areas:
    - **Net Sales Performance:** Tracked net sales performance over time, allowing for trend analysis and forecasting.
    - **Top/Bottom Customers:** Highlighted the top and bottom customers by net sales, offering insights into customer profitability.
    - **Top/Bottom Products:** Identified the top and bottom products by net sales, aiding in strategic product management decisions.
-
+     
+     [Finance View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Finance_View_Demo.mp4)
+     
 ### 2. **Sales View**
    - **Product Performance:** Analyzed the performance of various products, providing a clear view of bestsellers and underperformers.
    - **Customer Performance:** Evaluated customer performance metrics, including purchase frequency and average order value.
    - **Sales & Invoice Tracking:** Monitored sales and invoicing trends, ensuring that revenue generation is on track.
    - **COGS & GM Analysis:** Provided insights into the Cost of Goods Sold (COGS) and Gross Margin (GM), helping to understand profitability at different levels.
+
+     [Sales View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Sales_View_Demo.mp4)
 
 ### 3. **Market View**
    - **Product Performance:** Assessed how products perform across different regions and markets.
@@ -34,7 +38,9 @@ The project covered the following key areas:
        strategies.
    - **COGS, Expense & Profit:** Tracked the Cost of Goods Sold, overall expenses, and profitability to gauge financial efficiency.
    - **Performance Matrix:** Visualized the relationship between Net Profit % and Net Sales $, offering a quick overview of performance across various segments.
-- **Customer Acquisition Cost (CAC):** Analyzed the cost-effectiveness of customer acquisition strategies.
+   - **Customer Acquisition Cost (CAC):** Analyzed the cost-effectiveness of customer acquisition strategies.
+
+    [Marketing View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Marketing_View_Demo.mp4)
  
 ### 4. **Supply Chain View**
    - **Key Metrics by Customer:** Provided key supply chain metrics, focusing on customer-specific performance.
@@ -42,11 +48,15 @@ The project covered the following key areas:
    - **Accuracy/Error Trends:** Monitored the trends in forecast accuracy and errors, enabling continuous improvement in forecasting processes.
    - **Key Metrics by Products:** Highlighted key supply chain metrics for products, such as inventory levels, lead times, and fulfillment rates.
 
+     [Supply Chain View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Supply_Chain_View_Demo.mp4)
+
 ### 5. **Executive Dashboard**
    - **Top-Level Insights by Subzone:** Provided a high-level overview of key metrics broken down by geographic subzones.
    - **Market Share Trends:** Visualized AtliQ’s market share over time, comparing it with key competitors.
    - **Yearly Revenue Trends:** Displayed revenue trends year-over-year, with breakdowns by customer, product, division, and sales channel.
    - **Revenue Distribution:** Analyzed revenue contributions by different segments, offering insights into the most profitable areas of the business.
+
+   [Executive View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Executive_View_Demo.mp4)
 
 ### 6. **Product Dashboard**
    - **Top & Bottom 5 Products:** Highlighted the top and bottom 5 performing products based on sales, profitability, and customer feedback.
