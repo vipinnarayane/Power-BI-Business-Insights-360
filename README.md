@@ -63,7 +63,7 @@ The project covered the following key areas:
    - **Product Performance Trends:** Tracked product performance over time, providing insights into seasonal impacts and market demands.
    - **Product Profitability Analysis:** Assessed the profitability of products across different channels, aiding in strategic decision-making for product development and marketing.
 
-   [Product View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Product_View_Demo.mp4)
+     [Product View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Product_View_Demo.mp4)
    
 ## Tools & Technologies
 
