@@ -57,7 +57,7 @@ The project covered the following key areas:
    - **Revenue Distribution:** Analyzed revenue contributions by different segments, offering insights into the most profitable areas of the business.
 
     [Executive View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Executive_View_Demo.mp4)
-
+    
 ### 6. **Product Dashboard**
    - **Top & Bottom 5 Products:** Highlighted the top and bottom 5 performing products based on sales, profitability, and customer feedback.
    - **Product Performance Trends:** Tracked product performance over time, providing insights into seasonal impacts and market demands.
