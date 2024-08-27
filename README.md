@@ -40,7 +40,7 @@ The project covered the following key areas:
    - **Performance Matrix:** Visualized the relationship between Net Profit % and Net Sales $, offering a quick overview of performance across various segments.
    - **Customer Acquisition Cost (CAC):** Analyzed the cost-effectiveness of customer acquisition strategies.
 
-    [Marketing View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Marketing_View_Demo.mp4)
+     [Marketing View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Marketing_View_Demo.mp4)
  
 ### 4. **Supply Chain View**
    - **Key Metrics by Customer:** Provided key supply chain metrics, focusing on customer-specific performance.
@@ -56,7 +56,7 @@ The project covered the following key areas:
    - **Yearly Revenue Trends:** Displayed revenue trends year-over-year, with breakdowns by customer, product, division, and sales channel.
    - **Revenue Distribution:** Analyzed revenue contributions by different segments, offering insights into the most profitable areas of the business.
 
-   [Executive View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Executive_View_Demo.mp4)
+    [Executive View Demo](https://github.com/vipinnarayane/Power-BI-Business-Insights-360/blob/main/Executive_View_Demo.mp4)
 
 ### 6. **Product Dashboard**
    - **Top & Bottom 5 Products:** Highlighted the top and bottom 5 performing products based on sales, profitability, and customer feedback.
